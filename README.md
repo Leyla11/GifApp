@@ -2,7 +2,7 @@
 
 ## Herramientas usadas:
 
-- Create-react-app
+- Vite
 - Css
 
 ### Por: Diana Cruz Villa. 👾👩‍💻
